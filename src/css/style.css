@@ -344,7 +344,6 @@ footer{
 }
 
 .f_area1, .f_area2, .f_area3{
-    background-color: #555555;
     flex:1;
 }
 
@@ -378,4 +377,39 @@ footer .banner_desc{
 footer .banner_title{
         font-size: 25px;
         margin-top:10px;
+}
+
+footer .a1_desc{
+    padding-right:20px;
+    font-size: 12px;
+    color:#5c5c5c;
+}
+
+footer .a1_desc a{
+    text-decoration: none;
+    color: #ffffff;
+}
+
+footer .a2_desc {
+    font-size: 12px;
+    padding-right:20px;
+}
+
+footer .a2_date_post{
+    font-size: 12px;
+    color:#0079c7;
+    margin-top: 3px;
+    margin-bottom: 10px;
+}
+
+footer .a3_desc{
+    color:#5c5c5c;
+    font-size: 12px;
+}
+
+footer .a3_date_post{
+    font-size: 12px;
+    color:#0079c7;
+    margin-top: 3px;
+    margin-bottom: 15px;
 }
