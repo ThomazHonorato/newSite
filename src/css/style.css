@@ -314,6 +314,7 @@ footer{
     display: flex;
     justify-content: center;
     color:#ffffff;
+    margin-top:15px;
 }
 
 .footer_menu{
